@@ -1,5 +1,5 @@
-import globalshapers from "../assets/globalshapers.jpeg";
 import formula1 from "../assets/formula1Project.jpeg";
+import globalshapers from "../assets/globalshapers.jpeg";
 import portfolio from "../assets/proyectoPortfolio.jpeg";
 import react from "../assets/tecnologias/react1.png";
 import redux from "../assets/tecnologias/redux1.png";
@@ -16,7 +16,7 @@ import scrum from "../assets/tecnologias/scrum.jpeg";
 export const linkedin = "https://www.linkedin.com/in/francogarcia2001/";
 export const githubLink = "https://github.com/Fgarcia2001";
 export const email = "franco2001garcia@gmail.com";
-//informacion que necesito para mi portfolio
+
 const projects = [
   {
     name: "Formula1",
