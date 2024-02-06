@@ -1,6 +1,6 @@
 import React from "react";
-import { Linkedin } from "./informacion";
-import { Github } from "./informacion";
+import { linkedin } from "./informacion";
+import { githubLink } from "./informacion";
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 
 const About = () => {
@@ -24,7 +24,7 @@ const About = () => {
         <div className=" mt-10 flex justify-center gap-5  w-[100%] ">
           <div className="flex items-center justify-center w-[110px] bg-[white] rounded-md">
             <a
-              href={Linkedin}
+              href={linkedin}
               target="_blank"
               className="flex items-center gap-1"
             >
@@ -37,7 +37,7 @@ const About = () => {
           </div>
           <div className="flex items-center bg-[white] justify-center w-[110px] rounded-md">
             <a
-              href={Github}
+              href={githubLink}
               target="_blank"
               className="flex items-center gap-1"
             >
