@@ -13,9 +13,9 @@ import javascript from "../assets/tecnologias/jsjpg.jpg";
 import html from "../assets/tecnologias/html5.webp";
 
 import css from "../assets/tecnologias/css.png";
-/*
-import tailwind from "../assets/tecnologias/tailwind.png";
 
+import tailwind from "../assets/tecnologias/tailwind.png";
+/*
 import nodeExpress from "../assets/tecnologias/nodeExpress.png";
 
 import postgresql from "../assets/tecnologias/postgresql.png";
@@ -85,7 +85,7 @@ const tecnologias = [
   },
   {
     name: "tailwind",
-    image: "",
+    image: tailwind,
   },
   {
     name: "nodeExpress",
