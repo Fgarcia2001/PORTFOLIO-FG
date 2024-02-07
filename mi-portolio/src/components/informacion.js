@@ -19,9 +19,9 @@ import tailwind from "../assets/tecnologias/tailwind.png";
 import nodeExpress from "../assets/tecnologias/nodeExpress.png";
 
 import postgresql from "../assets/tecnologias/postgresql.png";
-/*
-import sequelize from "../assets/tecnologias/sequelize.png";
 
+import sequelize from "../assets/tecnologias/sequelize.png";
+/*
 import git from "../assets/tecnologias/git.png";
 
 import github from "../assets/tecnologias/github.png";
@@ -97,7 +97,7 @@ const tecnologias = [
   },
   {
     name: "sequelize",
-    image: "",
+    image: sequelize,
   },
   {
     name: "git",
