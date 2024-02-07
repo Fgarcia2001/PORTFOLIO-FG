@@ -15,9 +15,9 @@ import html from "../assets/tecnologias/html5.webp";
 import css from "../assets/tecnologias/css.png";
 
 import tailwind from "../assets/tecnologias/tailwind.png";
-/*
-import nodeExpress from "../assets/tecnologias/nodeExpress.png";
 
+import nodeExpress from "../assets/tecnologias/nodeExpress.png";
+/*
 import postgresql from "../assets/tecnologias/postgresql.png";
 
 import sequelize from "../assets/tecnologias/sequelize.png";
@@ -89,7 +89,7 @@ const tecnologias = [
   },
   {
     name: "nodeExpress",
-    image: "",
+    image: nodeExpress,
   },
   {
     name: "postgresql",
