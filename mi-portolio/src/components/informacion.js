@@ -4,9 +4,9 @@ import globalshapers from "../assets/globalshapers.jpeg";
 
 import portfolio from "../assets/proyectoPortfolio.jpeg";
 
-/*import react from "../assets/tecnologias/react1.png";
+import react from "../assets/tecnologias/react1.png";
 
-import redux from "../assets/tecnologias/redux1.png";
+/* import redux from "../assets/tecnologias/redux1.png";
 
 import javascript from "../assets/tecnologias/jsjpg.jpg";
 
@@ -69,7 +69,7 @@ const tecnologias = [
   },
   {
     name: "React",
-    image: "",
+    image: react,
   },
   {
     name: "Redux",
