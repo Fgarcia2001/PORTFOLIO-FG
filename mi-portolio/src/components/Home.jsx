@@ -23,7 +23,7 @@ const Home = () => {
       />
       <div className=" absolute  xl:left-[-20px] xl:text-[40px] xl:top-[200px] md:left-[0] md:w-screen p-8 ml-6 md:static left-[20%] top-[40%] w-[619px] h-[250px] text-black text-[64px] font-normal">
         <p className="sm:text-[25px] md:text-[25px]">
-          Hola!! Soy Franco García, Desarrollador FullStack
+          Hola! Soy Franco García, Desarrollador FullStack
         </p>
       </div>
       <div className=" mt-0 md:mt-[-100px] lg: mt-[300px] xl: mt-[250px] ">
