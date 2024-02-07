@@ -8,9 +8,9 @@ import react from "../assets/tecnologias/react1.png";
 
 import redux from "../assets/tecnologias/redux1.png";
 
-/* import javascript from "../assets/tecnologias/jsjpg.jpg";
+import javascript from "../assets/tecnologias/jsjpg.jpg";
 
-import html from "../assets/tecnologias/html5.webp";
+/* import html from "../assets/tecnologias/html5.webp";
 
 import css from "../assets/tecnologias/css.png";
 
@@ -65,7 +65,7 @@ const projects = [
 const tecnologias = [
   {
     name: "Javascript",
-    image: "",
+    image: javascript,
   },
   {
     name: "React",
