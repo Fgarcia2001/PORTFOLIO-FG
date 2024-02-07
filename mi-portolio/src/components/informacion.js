@@ -2,9 +2,9 @@ import formula1 from "../assets/formula1Project.jpeg";
 
 import globalshapers from "../assets/globalshapers.jpeg";
 
-/* import portfolio from "../assets/proyectoPortfolio.jpeg";
+import portfolio from "../assets/proyectoPortfolio.jpeg";
 
-import react from "../assets/tecnologias/react1.png";
+/*import react from "../assets/tecnologias/react1.png";
 
 import redux from "../assets/tecnologias/redux1.png";
 
@@ -55,7 +55,7 @@ const projects = [
     name: "Porfolio",
     description:
       "En mi portfolio se podra saber un poco de mi pasion por el desarrollo web, proyectos, experiencias y mucho mas!",
-    image: "",
+    image: portfolio,
     linkRepositorio: "https://github.com/Fgarcia2001/MI-PORTFOLIO",
     linkDeploy: "#",
     linkYoutube: "",
