@@ -24,7 +24,7 @@ import sequelize from "../assets/tecnologias/sequelize.png";
 
 import git from "../assets/tecnologias/git.png";
 
-/* import gitHub from "../assets/tecnologias/github.png"; */
+import gitHub from "../assets/tecnologias/gitHub.png";
 
 import scrum from "../assets/tecnologias/scrum.jpeg";
 
@@ -105,7 +105,7 @@ const tecnologias = [
   },
   {
     name: "github",
-    image: "",
+    image: gitHub,
   },
   {
     name: "Scrum",
