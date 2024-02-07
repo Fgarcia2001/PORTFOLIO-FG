@@ -21,9 +21,9 @@ import nodeExpress from "../assets/tecnologias/nodeExpress.png";
 import postgresql from "../assets/tecnologias/postgresql.png";
 
 import sequelize from "../assets/tecnologias/sequelize.png";
-/*
-import git from "../assets/tecnologias/git.png";
 
+import git from "../assets/tecnologias/git.png";
+/*
 import github from "../assets/tecnologias/github.png";
 
 import scrum from "../assets/tecnologias/scrum.jpeg"; */
@@ -101,7 +101,7 @@ const tecnologias = [
   },
   {
     name: "git",
-    image: "",
+    image: git,
   },
   {
     name: "github",
