@@ -2,7 +2,7 @@ import formula1 from "../assets/formula1Project.jpeg";
 
 import globalshapers from "../assets/globalshapers.jpeg";
 
-import portfolio from "../assets/proyectoPortfolio.jpeg";
+/* import portfolio from "../assets/proyectoPortfolio.jpeg";
 
 import react from "../assets/tecnologias/react1.png";
 
@@ -26,7 +26,7 @@ import git from "../assets/tecnologias/git.png";
 
 import github from "../assets/tecnologias/github.png";
 
-import scrum from "../assets/tecnologias/scrum.jpeg";
+import scrum from "../assets/tecnologias/scrum.jpeg"; */
 
 export const linkedin = "https://www.linkedin.com/in/francogarcia2001/";
 export const githubLink = "https://github.com/Fgarcia2001";
@@ -55,7 +55,7 @@ const projects = [
     name: "Porfolio",
     description:
       "En mi portfolio se podra saber un poco de mi pasion por el desarrollo web, proyectos, experiencias y mucho mas!",
-    image: portfolio,
+    image: "",
     linkRepositorio: "https://github.com/Fgarcia2001/MI-PORTFOLIO",
     linkDeploy: "#",
     linkYoutube: "",
@@ -65,51 +65,51 @@ const projects = [
 const tecnologias = [
   {
     name: "Javascript",
-    image: javascript,
+    image: "",
   },
   {
     name: "React",
-    image: react,
+    image: "",
   },
   {
     name: "Redux",
-    image: redux,
+    image: "",
   },
   {
     name: "html",
-    image: html,
+    image: "",
   },
   {
     name: "css",
-    image: css,
+    image: "",
   },
   {
     name: "tailwind",
-    image: tailwind,
+    image: "",
   },
   {
     name: "nodeExpress",
-    image: nodeExpress,
+    image: "",
   },
   {
     name: "postgresql",
-    image: postgresql,
+    image: "",
   },
   {
     name: "sequelize",
-    image: sequelize,
+    image: "",
   },
   {
     name: "git",
-    image: git,
+    image: "",
   },
   {
     name: "github",
-    image: github,
+    image: "",
   },
   {
     name: "Scrum",
-    image: scrum,
+    image: "",
   },
 ];
 const links = [
