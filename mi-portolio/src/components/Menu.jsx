@@ -4,7 +4,9 @@ const Menu = ({ isMenuOpen, handleMenu }) => {
   return (
     <div
       onClick={handleMenu}
-      className="hidden w-[69px] left-[20px]  h-[47px]  cursor-pointer md:block "
+      className={
+        "hidden w-[69px] left-[20px]  h-[47px]  cursor-pointer md:block"
+      }
     >
       <div
         className={`w-[69px] h-[9px] left-0 top-[19px] absolute bg-neutral-500
