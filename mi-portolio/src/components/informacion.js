@@ -6,9 +6,9 @@ import portfolio from "../assets/proyectoPortfolio.jpeg";
 
 import react from "../assets/tecnologias/react1.png";
 
-/* import redux from "../assets/tecnologias/redux1.png";
+import redux from "../assets/tecnologias/redux1.png";
 
-import javascript from "../assets/tecnologias/jsjpg.jpg";
+/* import javascript from "../assets/tecnologias/jsjpg.jpg";
 
 import html from "../assets/tecnologias/html5.webp";
 
@@ -73,7 +73,7 @@ const tecnologias = [
   },
   {
     name: "Redux",
-    image: "",
+    image: redux,
   },
   {
     name: "html",
