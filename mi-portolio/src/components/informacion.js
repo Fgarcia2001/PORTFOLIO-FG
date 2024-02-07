@@ -54,7 +54,7 @@ const projects = [
   {
     name: "Porfolio",
     description:
-      "En mi portfolio se podra saber un poco de mi pasion por el desarrollo web, proyectos, experiencias y mucho mas!",
+      "En mi portfolio se podrá saber un poco de mi pasión por el desarrollo web, proyectos, experiencias y mucho mas!",
     image: portfolio,
     linkRepositorio: "https://github.com/Fgarcia2001/MI-PORTFOLIO",
     linkDeploy: "#",
