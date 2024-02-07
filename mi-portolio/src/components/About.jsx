@@ -12,14 +12,14 @@ const About = () => {
       <h2 className="font-semibold text-[40px]">Sobre mi</h2>
       <div className="w-screen mt-[5%] pt-[10%] pb-[10%] bg-[#2B2B29] p-10">
         <p className="text-white">
-          Hola, soy Franco! Inicié mi viaje en la programación durante mis
-          estudios de Ingeniería en Sistemas, desarrollando una sólida base en
-          lógica de programación. Mi interés por la creación de aplicaciones web
-          surgió durante mi formación como Analista en Sistemas. En julio de
-          2023, me inscribí en el Bootcamp de "Soy Henry" donde obtuve mi
-          certificado de Desarrollador Full-Stack y adquiri experiencia en
-          metodologias como SCRUM donde destaqué por mi habilidad de resolver
-          problemas y capacidad de comunicación en equipo.
+          Hola, soy Franco! De Rosario, Santa Fé, Argentina. Inicié mi viaje en
+          la programación durante mis estudios de Ingeniería en Sistemas,
+          desarrollando una sólida base en lógica de programación. Mi interés
+          por la creación de aplicaciones web surgió durante mi formación como
+          Analista en Sistemas. En julio de 2023, me inscribí en el Bootcamp de
+          "Soy Henry" donde obtuve mi certificado de Desarrollador Full-Stack y
+          adquiri experiencia en metodologias como SCRUM donde destaqué por mi
+          habilidad de resolver problemas y capacidad de comunicación en equipo.
         </p>
         <div className=" mt-10 flex justify-center gap-5  w-[100%] ">
           <div className="flex items-center justify-center w-[110px] bg-[white] rounded-md">
