@@ -19,7 +19,7 @@ const Menu = ({ isMenuOpen, handleMenu }) => {
         className={`
             w-[69px] h-[9px] left-0 top-[60px] absolute bg-zinc-300 ${
               isMenuOpen &&
-              "transition-transform rotate-[-45deg] left-2 top-[39px]"
+              "transition-transform rotate-[-45deg] left-2 top-[20px]"
             }
           `}
       />
