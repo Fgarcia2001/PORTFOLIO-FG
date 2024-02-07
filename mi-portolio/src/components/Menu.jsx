@@ -8,7 +8,10 @@ const Menu = ({ isMenuOpen, handleMenu }) => {
     >
       <div
         className={`w-[69px] h-[9px] left-0 top-[19px] absolute bg-neutral-500
-            ${isMenuOpen && "transition-transform rotate-[45deg] mt-5 ml-2"}`}
+            ${
+              isMenuOpen &&
+              "transition-transform rotate-[45deg] mt-5 ml-2 top-[40px]"
+            }`}
       />
 
       {!isMenuOpen && (
@@ -19,7 +22,7 @@ const Menu = ({ isMenuOpen, handleMenu }) => {
         className={`
             w-[69px] h-[9px] left-0 top-[60px] absolute bg-zinc-300 ${
               isMenuOpen &&
-              "transition-transform rotate-[-45deg] left-2  2xl: top-[41px]"
+              "transition-transform rotate-[-45deg] left-2  2xl: top-[40px]"
             }
           `}
       />
