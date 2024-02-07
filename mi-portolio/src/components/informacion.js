@@ -105,7 +105,7 @@ const tecnologias = [
   },
   {
     name: "github",
-    image: gitHub,
+    image: "",
   },
   {
     name: "Scrum",
