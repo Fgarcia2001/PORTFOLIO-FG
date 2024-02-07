@@ -11,9 +11,9 @@ import redux from "../assets/tecnologias/redux1.png";
 import javascript from "../assets/tecnologias/jsjpg.jpg";
 
 import html from "../assets/tecnologias/html5.webp";
-/*
-import css from "../assets/tecnologias/css.png";
 
+import css from "../assets/tecnologias/css.png";
+/*
 import tailwind from "../assets/tecnologias/tailwind.png";
 
 import nodeExpress from "../assets/tecnologias/nodeExpress.png";
@@ -81,7 +81,7 @@ const tecnologias = [
   },
   {
     name: "css",
-    image: "",
+    image: css,
   },
   {
     name: "tailwind",
