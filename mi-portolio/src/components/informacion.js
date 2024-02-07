@@ -23,9 +23,9 @@ import postgresql from "../assets/tecnologias/postgresql.png";
 import sequelize from "../assets/tecnologias/sequelize.png";
 
 import git from "../assets/tecnologias/git.png";
-/*
-import github from "../assets/tecnologias/github.png";
 
+import github from "../assets/tecnologias/github.png";
+/*
 import scrum from "../assets/tecnologias/scrum.jpeg"; */
 
 export const linkedin = "https://www.linkedin.com/in/francogarcia2001/";
@@ -105,7 +105,7 @@ const tecnologias = [
   },
   {
     name: "github",
-    image: "",
+    image: github,
   },
   {
     name: "Scrum",
